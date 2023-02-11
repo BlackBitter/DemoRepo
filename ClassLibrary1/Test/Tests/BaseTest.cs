@@ -16,6 +16,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1.Test.Tests
 {
+    // base test
     [TestFixture]
     public class BaseTest
     {
