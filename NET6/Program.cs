@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // Comments
-            //sdasdasdas
+            // Comments 2
         }
     }
 }
